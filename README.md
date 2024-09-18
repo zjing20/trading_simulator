@@ -44,7 +44,9 @@ This project simulates a gold trading exchange with multiple trading strategies.
 
 Run the simulation by executing the main script:
 
+```bash
 python exchange_simulator.py
+```
 
 This will run 1000 simulations and output the results, including:
 - Profit distribution for each strategy
