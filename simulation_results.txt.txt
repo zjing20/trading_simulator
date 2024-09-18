@@ -1,0 +1,135 @@
+Profit Distribution after 1000 simulations:
+
+Trend_following:
+  Mean Profit: $11231.06
+  Median Profit: $6915.35
+  Standard Deviation: $19715.79
+  Min Profit: $-47301.40
+  Max Profit: $112462.07
+
+Mean_reversion:
+  Mean Profit: $4349.30
+  Median Profit: $262.15
+  Standard Deviation: $16661.85
+  Min Profit: $-38004.85
+  Max Profit: $108286.49
+
+Momentum:
+  Mean Profit: $13168.92
+  Median Profit: $10161.26
+  Standard Deviation: $18392.15
+  Min Profit: $-62200.86
+  Max Profit: $106697.59
+
+Value_investing:
+  Mean Profit: $-8112.64
+  Median Profit: $-7503.79
+  Standard Deviation: $13929.33
+  Min Profit: $-69913.98
+  Max Profit: $45504.85
+
+Market_making:
+  Mean Profit: $-20636.65
+  Median Profit: $-17771.73
+  Standard Deviation: $12974.41
+  Min Profit: $-79365.32
+  Max Profit: $2826.76
+
+Trader vs Trader Profit Information:
+
+Trend_following:
+  vs Mean_reversion: $-8530.00
+  vs Momentum: $1314.10
+  vs Value_investing: $-7498.96
+  vs Market_making: $-4191.33
+  Total mean profit against other traders: $-18906.18
+
+Mean_reversion:
+  vs Trend_following: $8530.00
+  vs Momentum: $4802.57
+  vs Value_investing: $1219.89
+  vs Market_making: $2526.29
+  Total mean profit against other traders: $17078.75
+
+Momentum:
+  vs Trend_following: $-1314.10
+  vs Mean_reversion: $-4802.57
+  vs Value_investing: $-963.13
+  vs Market_making: $-7249.78
+  Total mean profit against other traders: $-14329.58
+
+Value_investing:
+  vs Trend_following: $7498.96
+  vs Mean_reversion: $-1219.89
+  vs Momentum: $963.13
+  vs Market_making: $1626.76
+  Total mean profit against other traders: $8868.95
+
+Market_making:
+  vs Trend_following: $4191.33
+  vs Mean_reversion: $-2526.29
+  vs Momentum: $7249.78
+  vs Value_investing: $-1626.76
+  Total mean profit against other traders: $7288.06
+
+Final Portfolio and Gold Value Statistics:
+
+Trend_following:
+  Mean Portfolio Value: $53867.72
+  Mean Gold Value: $46967.18
+  Median Portfolio Value: $47919.19
+  Median Gold Value: $40746.06
+  Portfolio Value Std Dev: $27885.85
+  Gold Value Std Dev: $31066.52
+
+Mean_reversion:
+  Mean Portfolio Value: $46985.95
+  Mean Gold Value: $10067.67
+  Median Portfolio Value: $37721.86
+  Median Gold Value: $0.00
+  Portfolio Value Std Dev: $24857.56
+  Gold Value Std Dev: $23797.67
+
+Momentum:
+  Mean Portfolio Value: $55805.57
+  Mean Gold Value: $51652.02
+  Median Portfolio Value: $50326.08
+  Median Gold Value: $47639.12
+  Portfolio Value Std Dev: $23865.01
+  Gold Value Std Dev: $25691.68
+
+Value_investing:
+  Mean Portfolio Value: $34524.02
+  Mean Gold Value: $12145.02
+  Median Portfolio Value: $30237.73
+  Median Gold Value: $5287.37
+  Portfolio Value Std Dev: $14716.64
+  Gold Value Std Dev: $16407.76
+
+Market_making:
+  Mean Portfolio Value: $22000.01
+  Mean Gold Value: $13428.78
+  Median Portfolio Value: $21266.66
+  Median Gold Value: $13997.53
+  Portfolio Value Std Dev: $2419.74
+  Gold Value Std Dev: $7556.97
+
+A chart of daily starting gold prices has been saved as 'daily_gold_prices.png'
+
+A chart of the system's total value has been saved as 'system_total_value.png'
+
+Average increase in system's total value: 113.18%
+
+Detailed Market_making Strategy Analysis:
+Mean Profit: $-20636.65
+Profits against other strategies:
+  vs trend_following: $4191.33
+  vs mean_reversion: $-2526.29
+  vs momentum: $7249.78
+  vs value_investing: $-1626.76
+
+Distribution of Market_making profits:
+Min: $-79365.32
+Max: $2826.76
+Median: $-17771.73
+Standard Deviation: $12974.41
